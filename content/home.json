@@ -1,29 +1,10 @@
 {
-  "meta_title": "",
-  "meta_description": "",
+  "meta_title": "Mercadinho Candeeiro Insumos Naturais, Alimentícios e Cosméticos",
+  "meta_description": "Insumos para a Cosmética Natural, Vegana, Artesanal. Insumos para Saboaria. Insumos para Produtos de Limpeza. Produtos Alimentícios Naturais, Orgânicos. Variedades.",
   "sections": [
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "slides": [
-        {
-          "img": "/img/uploads/rect89.webp",
-          "link": "/headset",
-          "alt": "Headset banner",
-          "start": "2020-04-11T05:54:06.750Z",
-          "end": "2020-12-31T03:00:00.000Z"
-        },
-        {
-          "img": "/img/uploads/banner2.webp",
-          "alt": "Banner sample two",
-          "start": "",
-          "end": ""
-        }
-      ]
-    },
-    {
-      "type": "info-bar",
-      "enabled": true
+      "type": "custom-content",
+      "markdown": "<!--StartFragment-->\n\n**Para os pedidos e pagamentos compensados até dia 08/12 ás 15h a entrega será feita dia 09/12 pelo rogério. Não tem retirada no local.** \n\nApós enviar o pedido pelo site você receberá uma confirmação da compra pelo e-mail informado. fazer o pagamento por depósito no itaú ou nubank. favor enviar o comprovante para mim por whatsapp. Após a confirmação do pagamento suas compras serão preparadas para serem entregues.\n\n<!--EndFragment-->"
     },
     {
       "type": "collection-shelf",
@@ -34,8 +15,8 @@
     },
     {
       "type": "page-title",
-      "title": "Loja demo da E-Com Plus",
-      "description": "Loja de demonstração e testes da plataforma E-Com Plus e Storefront. Todos os produtos, preços e informações são meramente ilustrativos."
+      "title": "Mercadinho Candeeiro Insumos Naturais, Alimentícios e Cosméticos",
+      "description": ""
     }
   ]
 }
