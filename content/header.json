@@ -18,7 +18,12 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/insumos-cosmeticos/?Insumos Cosméticos",
+      "/oleos-essenciais-hidrolatos-ervas/?Óleos Essenciais - Hidrolatos - Ervas",
+      "/alimenticios-naturais/?Produtos Alimentícios",
+      "/variedades/? Variedades - Presentes"
+    ],
     "random": 6,
     "full_width": false
   },
