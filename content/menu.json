@@ -1,5 +1,10 @@
 {
-  "sort_categories": [],
+  "sort_categories": [
+    "insumos-cosmeticos/",
+    "oleos-essenciais-hidrolatos-ervas/",
+    "alimenticios-naturais/",
+    "variedades/"
+  ],
   "phone_wpp": true,
   "socials": true
 }
