@@ -7,7 +7,7 @@
     "custom": "clean-dark"
   },
   "bg_color": "#d1a960",
-  "logo": "/img/uploads/imagest.png",
+  "logo": "/img/uploads/perfil-1.jpg",
   "name": "mercadinhocandeeiro",
   "short_name": "mercadinhocandeeiro",
   "lang": "pt_br",
@@ -16,8 +16,8 @@
   "favicon": "/img/uploads/favicon.png",
   "country_code": "BR",
   "secondary_color": "#393e46",
-  "icon": "/img/uploads/imagest.png",
+  "icon": "/img/uploads/perfil-1.jpg",
   "store_id": 1195,
   "description": "Venda Colaborativa de Insumos para a Cosmética Natural, Vegana, Artesanal; para Saboaria e para Produtos de Limpeza. E, de Produtos Alimentícios Naturais, Orgânicos e Variedades.",
-  "large_icon": "/img/uploads/imagest.png"
+  "large_icon": "/img/uploads/perfil-1.jpg"
 }
