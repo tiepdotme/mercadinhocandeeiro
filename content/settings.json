@@ -4,9 +4,9 @@
   "primary_color": "#7d4029",
   "theme": {
     "bootswatch": "_",
-    "custom": "_"
+    "custom": "clean-dark"
   },
-  "bg_color": "#ffffff",
+  "bg_color": "#d1a960",
   "logo": "/img/uploads/imagest.png",
   "name": "mercadinhocandeeiro",
   "short_name": "mercadinhocandeeiro",
