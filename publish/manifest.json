@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.f252d026297ddf6774ed0b70601c51a8.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.a0c6f84013d1affb6c98f44c5a98678e.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.37939d94f68e0e12091fd7357d38770a.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.e3b462b9cb1c4d8243c0ba6916405795.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.32ddc010ff6cb629ca22f1b201aa60d4.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "mercadinhocandeeiro",
+  "short_name": "mercadinhocandeeiro",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Venda Colaborativa de Insumos para a Cosmética Natural, Vegana, Artesanal; para Saboaria e para Produtos de Limpeza. E, de Produtos Alimentícios Naturais, Orgânicos e Variedades.",
+  "background_color": "#d1a960",
+  "theme_color": "#7d4029"
+}
